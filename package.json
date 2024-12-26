@@ -1,7 +1,7 @@
 {
   "name": "@haunytb/ui-pro",
   "type": "module",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "main": "./nuxt.config.ts",
   "files": [
     "app",
