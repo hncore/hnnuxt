@@ -18,7 +18,7 @@ import type { PropType } from 'vue'
 import type { NavigationGroup, NavigationTree } from '#ui-pro/types'
 
 const config = {
-  wrapper: 'px-4 space-y-3'
+  wrapper: 'space-y-3'
 }
 
 defineOptions({

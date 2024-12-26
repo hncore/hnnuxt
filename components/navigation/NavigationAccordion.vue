@@ -58,7 +58,7 @@ const config = computed(() => {
 
   return {
     wrapper,
-    container: 'space-y-3',
+    container: 'px-4 space-y-3',
     item: {
       padding: '',
       color: 'text-inherit dark:text-inherit'
