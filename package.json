@@ -1,7 +1,7 @@
 {
   "name": "@haunytb/ui-pro",
   "type": "module",
-  "version": "2.0.0",
+  "version": "2.2.1",
   "main": "./nuxt.config.ts",
   "files": [
     "app",
@@ -20,8 +20,7 @@
     "env": "NUXT_UI_PRO_LICENSE",
     "link": "https://ui.nuxt.com/pro/pricing"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
     "@nuxt/ui": "^2.15.0",
     "@vueuse/core": "^10.9.0",
@@ -56,5 +55,19 @@
     "@nuxt/schema": "3.11.1",
     "@headlessui/vue": "1.7.19",
     "vue": "3.4.21"
-  }
+  },
+  "description": "[![nuxt-ui-pro.png](https://volta.s3.fr-par.scw.cloud/306965274_1682f2a7_dfc5_4c85_9807_6203cd568852_154cf5592c.png)](https://ui.nuxt.com/pro)",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "HAUNYTB",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hncore/hnnuxt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hncore/hnnuxt/issues"
+  },
+  "homepage": "https://github.com/hncore/hnnuxt#readme"
 }
