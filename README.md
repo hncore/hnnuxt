@@ -29,22 +29,22 @@ You can get started with our [minimal starter](https://github.com/nuxt-ui-pro/st
 
 ```bash
 # npm
-npm install @blakvghost/ui-pro
+npm install @haunytb/ui-pro
 # yarn
-yarn add @blakvghost/ui-pro
+yarn add @haunytb/ui-pro
 # pnpm
-pnpm add @blakvghost/ui-pro
+pnpm add @haunytb/ui-pro
 # bun
-bun add @blakvghost/ui-pro
+bun add @haunytb/ui-pro
 ```
 
-Note that `@blakvghost/ui-pro` will also install [`@nuxt/ui`](https://ui.nuxt.com) as dependency to your project.
+Note that `@haunytb/ui-pro` will also install [`@nuxt/ui`](https://ui.nuxt.com) as dependency to your project.
 
 Next, add it to your `nuxt.config.ts` in the `extends` property:
 
 ```ts
 export default defineNuxtConfig({
-  extends: ['@blakvghost/ui-pro'],
+  extends: ['@haunytb/ui-pro'],
   modules: ['@nuxt/ui']
 })
 ```

@@ -1,5 +1,5 @@
 {
-  "name": "@blakvghost/ui-pro",
+  "name": "@haunytb/ui-pro",
   "type": "module",
   "version": "2.0.0",
   "main": "./nuxt.config.ts",
